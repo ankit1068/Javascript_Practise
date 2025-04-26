@@ -5,7 +5,7 @@ let random = Math.random()
 console.log(random)
 
 let addition = a + b;
-let subtract = a - b;
+let subtract = a - b
 let multiple = a * b;
 let divide = a / b;
 
