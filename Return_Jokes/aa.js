@@ -28,7 +28,7 @@ let jokes = [
                 "explicit": false
             },
             "id": 4,
-            "safe": true,
+            "safe": false,
             "lang": "en"
         },
         {
